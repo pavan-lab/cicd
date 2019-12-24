@@ -30,7 +30,7 @@
 						<muleVersion>4.2.2</muleVersion>
 						<username>chicken123</username>
 						<password>1234@Chiken</password>
-						<applicationName>pavanlightsapi</applicationName>
+						<applicationName>pavanlightsapi1234</applicationName>
 						<environment>Sandbox</environment>
 			     		<workerType>Micro</workerType> 
 			       		<workers>1</workers>
